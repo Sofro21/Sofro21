@@ -13,10 +13,10 @@ I'm a passionate full-stack developer with a strong interest in web development,
 
 ### Programming Languages
 
-- HTML/CSS [![HTML5 and CSS3](https://github.com/FransLopez/logo-images/blob/master/logos/html5andcss3.png)](http://www.w3.org/) 
+- HTML/CSS 
 - JavaScript (React, Node.js)
-- Python
-- C++
+- Python 
+- C++ 
 - Bootstrap, Tailwind CSS
 
 ### Tools & Technologies
