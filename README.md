@@ -13,7 +13,7 @@ I'm a passionate full-stack developer with a strong interest in web development,
 
 ### Programming Languages
 
-- HTML/CSS
+- HTML/CSS ![HTML_Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw3HoHvj2Z80bKy6gAoRaBUK&ust=1712765565823000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDsiozDtYUDFQAAAAAdAAAAABAE)
 - JavaScript (React, Node.js)
 - Python
 - C++
